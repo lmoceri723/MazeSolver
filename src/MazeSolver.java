@@ -1,7 +1,7 @@
 /**
  * Solves the given maze using DFS or BFS
- * @author Ms. Namasivayam
- * @version 03/10/2023
+ * @author Ms. Namasivayam and Landon Moceri
+ * @version 04/04/2023
  */
 
 import java.util.ArrayList;
