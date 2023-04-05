@@ -1,7 +1,7 @@
 /**
  * Creates a Maze made up of MazeCells
- * @author Ms. Namasivayam
- * @version 03/04/2022
+ * @author Ms. Namasivayam and Landon Moceri
+ * @version 04/04/2022
  */
 
 import java.io.File;
